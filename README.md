@@ -1,6 +1,6 @@
 # FireBeetle Web LED
 
-<div align="right">[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mister.funable/making-a-local-web-server-with-the-dfrobot-firebeetle-2-esp32-e-platformio-0bbe6abfa8ab)</div>
+<div align="right"><a href="https://medium.com/@mister.funable/making-a-local-web-server-with-the-dfrobot-firebeetle-2-esp32-e-platformio-0bbe6abfa8ab"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" /></a></div>
 
 Blink the FireBeetle 2 ESP32-E onboard LED through a lightweight WiFi web server built with PlatformIO.
 Great for showing how to expose GPIO control over HTTP without bringing in heavy frameworks.
